@@ -13,8 +13,8 @@ End date - Aug 29 2020
 
 
 # Progress Tracking - Every day atleast 10 videos
-1. Aug 15 2020 - 1-10 videos - IN PROGRESS
-2.
+1. Aug 15 2020 - 1-10 videos - COMPLETED
+2. Aug 16 2020 - 11-20 videos - IN PROGRESS
 3.
 4.
 5.
